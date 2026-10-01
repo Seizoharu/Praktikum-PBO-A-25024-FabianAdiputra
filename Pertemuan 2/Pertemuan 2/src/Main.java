@@ -1,6 +1,3 @@
- * Program uji — JANGAN DIUBAH pada Langkah 1 sampai 4.
- * Kalau kode Anda benar, seluruh keluaran di bawah akan masuk akal.
- */
 public class Main {
     public static void main(String[] args) {
 
