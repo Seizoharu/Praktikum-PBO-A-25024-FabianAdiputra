@@ -1,0 +1,18 @@
+{
+  "name": "perpustakaan/pbo",
+  "autoload": {
+    "psr-4": {
+      "Perpustakaan\\Model\\": "php/",
+      "Perpustakaan\\Tests\\": "php/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Perpustakaan\\Model\\": "php/",
+      "Perpustakaan\\Tests\\": "php/"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9.6"
+  }
+}
